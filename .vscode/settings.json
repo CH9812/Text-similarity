@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "fastapi",
+        "gunicorn",
+        "linalg",
+        "ndarray",
+        "nltk",
+        "numpy",
+        "pydantic",
+        "scikit",
+        "tqdm",
+        "uvicorn"
+    ]
+}
